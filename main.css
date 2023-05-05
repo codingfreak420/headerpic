@@ -1,0 +1,13 @@
+#header {
+    background-image: url('https://lh3.googleusercontent.com/p/AF1QipOZBqEVeZPaO-_TEsOLWcoW1pl1WJh6UTmzxgu6=w1080-h608-p-no-v0');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 1em;
+    border: 1px solid blue;
+}
+#header img {
+    display: block;
+    visibility: hidden; /*hidden but reserve the space*/
+    width: 100%;
+    height: auto;
+}
